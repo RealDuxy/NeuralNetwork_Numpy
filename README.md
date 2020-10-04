@@ -1,6 +1,8 @@
 # NeuralNetwork_Numpy
  利用numpy实现神经网络
 
-已实现：Linear
+## Layer.py
+Linear
 
-激活函数已实现：ReLu，ELU
+## Activation.py
+ELU, ReLu
