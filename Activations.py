@@ -58,7 +58,7 @@ class ReLu(LayerBase):
 
 
 if __name__ == '__main__':
-    x = np.array([[1,2],[-1,-2]])
+
     activation1 = ELU()
     activation2 = ReLu()
 
